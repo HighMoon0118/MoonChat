@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370652009625",
+    "firebase_url": "https://moonchat-1.firebaseio.com",
+    "project_id": "moonchat-1",
+    "storage_bucket": "moonchat-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370652009625:android:1f5e185a5112de12819408",
+        "android_client_info": {
+          "package_name": "com.e.moonchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370652009625-5s4q1bhl7gqoc91rmlmj1ev4b9aj1n0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOjPs65Iyf01tw3rtBM8DbRd9QzFqbm74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370652009625-5s4q1bhl7gqoc91rmlmj1ev4b9aj1n0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
