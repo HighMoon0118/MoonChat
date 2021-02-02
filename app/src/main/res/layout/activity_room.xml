@@ -5,9 +5,9 @@
     android:layout_height="wrap_content"
     android:padding="5dp"
     android:orientation="vertical"
-    >
+    android:background="?attr/selectableItemBackground">
     <TextView
-        android:id="@+id/textView_name"
+        android:id="@+id/textView_RoomName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="text"
@@ -15,7 +15,7 @@
         android:textStyle="bold"
         />
     <TextView
-        android:id="@+id/textView_msg"
+        android:id="@+id/textView_HostName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="text"
